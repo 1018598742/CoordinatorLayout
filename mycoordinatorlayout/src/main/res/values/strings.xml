@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCoordinatorLayout</string>
+    <string name="title_activity_my_tab_layout">MyTabLayout</string>
+</resources>
